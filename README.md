@@ -17,7 +17,7 @@ After we register, we login using username and password.<pre>
 
 ###### Task Screen
 Task screen where all the task are stacked.<pre>
-<img src="task-screen.pn" alt="drawing" width="200"/></pre>
+<img src="task-screen.png" alt="drawing" width="200"/></pre>
 
 
 ###### Add Task
