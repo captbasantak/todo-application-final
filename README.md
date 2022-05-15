@@ -2,7 +2,8 @@
 
 ###### Home Screen
 This is the first screen we see when we run the application <pre>
-![Home](home.png)
+<img src="home.png" alt="drawing" width="200"/>
+
 
 ###### Register Screen
 In order to use the app we first register.<pre>
