@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kbasa/AndroidStudioProjects/FInalTODOApplicaction - Copy/app/src/main/res/drawable/ic_baseline_add.xml" value="0.1415" />
+        <entry key="..\:/Users/kbasa/AndroidStudioProjects/FInalTODOApplicaction - Copy/app/src/main/res/drawable/signupscreen.xml" value="0.229" />
+        <entry key="..\:/Users/kbasa/AndroidStudioProjects/FInalTODOApplicaction - Copy/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/kbasa/AndroidStudioProjects/FInalTODOApplicaction - Copy/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/kbasa/AndroidStudioProjects/FInalTODOApplicaction - Copy/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/kbasa/AndroidStudioProjects/FInalTODOApplicaction - Copy/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/kbasa/AndroidStudioProjects/FInalTODOApplicaction - Copy/app/src/main/res/layout/home_activity.xml" value="0.19047619047619047" />
+        <entry key="..\:/Users/kbasa/AndroidStudioProjects/FInalTODOApplicaction - Copy/app/src/main/res/layout/new_task.xml" value="0.25" />
+        <entry key="..\:/Users/kbasa/AndroidStudioProjects/FInalTODOApplicaction - Copy/app/src/main/res/layout/task_layout.xml" value="0.25" />
+        <entry key="..\:/Users/kbasa/AndroidStudioProjects/FInalTODOApplicaction/app/src/main/res/drawable/ic_baseline_add.xml" value="0.1495" />
+        <entry key="..\:/Users/kbasa/AndroidStudioProjects/FInalTODOApplicaction/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/kbasa/AndroidStudioProjects/FInalTODOApplicaction/app/src/main/res/layout/activity_splash.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/kbasa/AndroidStudioProjects/FInalTODOApplicaction/app/src/main/res/layout/new_task.xml" value="0.2342007434944238" />
+        <entry key="..\:/Users/kbasa/AndroidStudioProjects/FInalTODOApplicaction/app/src/main/res/layout/task_layout.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
